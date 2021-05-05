@@ -9,9 +9,9 @@ https://prit33.github.io/Prit33/
 </a>  
 
 
-Web-dev [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Prit33/Web-Dev/graphs/commit-activity) 
+Web-dev    [![Maintenance](https://img.shields.io/badge/Commit-Activity-blue.svg)](https://GitHub.com/Prit33/Web-Dev/graphs/commit-activity) 
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Prit33/Experiments--0/graphs/commit-activity)
+Experiments--0  [![Maintenance](https://img.shields.io/badgeCommit-Activity-red.svg)](https://GitHub.com/Prit33/Experiments--0/graphs/commit-activity)
 
 
 
