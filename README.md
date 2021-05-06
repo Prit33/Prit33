@@ -7,9 +7,7 @@ Web-dev    &nbsp;   [![Maintenance](https://img.shields.io/badge/Commit-Activity
 
 Experiments--0    &nbsp;  [![Maintenance](https://img.shields.io/badge/Commit-Activity-red.svg)](https://GitHub.com/Prit33/Experiments--0/graphs/commit-activity)
 
-<a href="https://dev.to/prit33">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prit's DEV Community Profile" height="50" width="50">
-</a>  
+
 
 
 
