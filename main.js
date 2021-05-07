@@ -5,20 +5,19 @@ const instance = new Typewriter('#typewriter', {
     loop: true
 });
 
-instance.typeString("Hello World 👋")
+instance.typeString('Hello<b style="color:rgb(200, 200, 200)">_</b>there !')
     .pauseFor(1000)
     .deleteAll()
-    .typeString('I am Prit.')
+    .typeString('I\'m <b style="color:#ffffff">Prit</b>')
     .pauseFor(200)
     .deleteAll()
-    // .deleteChars(10)
-    .typeString('an aspiring Software Engineer.')
+    .typeString('First year Btech <b style="color:rgb(255, 255, 255)">Student</b>')
     .pauseFor(1000)
     .deleteChars(30)
-    .typeString('currently learning<br>Web Development.')
+    .typeString('Learning <b style="color:rgb(255, 255, 255)">Web Development</b>')
     .pauseFor(1000)
     .deleteAll()
-    .typeString('Check out my work at<br>github.com/Prit33')
+    .typeString('Check out my work at github.com/<b style="color:#ffffff">Prit33<b>')
     .pauseFor(1000)
     .deleteAll()
     .start();
