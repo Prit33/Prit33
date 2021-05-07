@@ -7,23 +7,23 @@
             "value": "#ffffff"
         },
         "shape": {
-            "type": "circle",
+            "type": "point",
             "stroke": {
-                "width": 0,
+                "width": 100,
                 "color": "#f3f3f6"
             }
         },
         "polygon": {
-            "nb_sides": 3
+            "nb_sides": 10
         },
         "opacity": {
-            "value": 0.8,
+            "value":0.8,
             "random": false,
             "anim": {
-                "enable": false,
-                "speed": 1,
+                "enable": true,
+                "speed": 9,
                 "opacity_min": 0.1,
-                "sync": false
+                "sync": true
             }
         },
         "size": {
@@ -31,28 +31,30 @@
             "anim": {
                 "enable": false,
                 "speed": 40,
-                "size_min": 0.1,
+                "size_min": 0.5,
                 "sync": false
             }
         },
         "line_linked": {
             "enable": true,
-            "distance": 150,
-            "color": "#9900ff",
-            "opacity": 0.4,
-            "width": 3
+            "distance": 120,
+            "color": "#ffffff",
+            "random":true,
+            "bounce": false,
+            "opacity": 3,
+            "width": 0.3
         },
         "move": {
             "enable": true,
             "speed": 7,
             "direction": "none",
-            "random": false,
+            "random":true,
             "straight": false,
-            "out_mode": "out",
+            "out_mode": "in",
             "bounce": false,
             "attract": {
                 "enable": false,
-                "rotateX": 600,
+                "rotateX": 500,
                 "rotateY": 1200
             }
         }
