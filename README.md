@@ -1,16 +1,16 @@
 ### Hello folks 🤠
-<p>This is Prit, 2nd year Btech student.<br>
-Right now, I'm just exloring and learning the technology.<br>
-I'm open source enthusiast and keens to build project together</p>
+<p>This is Prit, 2nd year Btech student<br>
+Right now, I'm just exloring and learning the technology<br>
+I'm an open source enthusiast and keens to build projects together</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prit33&label=Profile%20views&color=0e75b6&style=flat" alt="Prit33" /> </p>
 <a href="https://github.com/Prit33"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prit33&show_icons=true&hide=stars&theme=tokyonight"></a><br>
 <a href="https://github.com/Prit33"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prit33&layout=compact&theme=radical&card_width=250"></a><br>
 
 <h2>I am currently working on-</h2>
-- Web development 
-- Open source contribution
-- Learning DSA 
+- Web development<br> 
+- Open source contribution<br>
+- Learning DSA <br>
 
 ### 💬 My Social Handles
 
