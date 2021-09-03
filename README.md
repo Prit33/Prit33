@@ -15,9 +15,9 @@ I'm an open source enthusiast and keens to build projects together</p>
 ### 💬 My Social Handles
 
 <p align = "left">
-<a href="https://twitter.com/Prit_33" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/sentient_machine_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="www.linkedin.com/in/prit-yadav-16aa68178" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/Prit_33" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/sentient_machine_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="50" width="50" /></a> &nbsp;&nbsp;
+<a href="www.linkedin.com/in/prit-yadav-16aa68178" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="50" width="50" /></a> &nbsp;&nbsp;
 </p>
 
 
